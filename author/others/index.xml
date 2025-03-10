@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others | CEAD Lab</title>
+    <link>https://ceadpx.github.io/author/others/</link>
+      <atom:link href="https://ceadpx.github.io/author/others/index.xml" rel="self" type="application/rss+xml" />
+    <description>Others</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ceadpx.github.io/media/icon_hu_d954a4e53c2f2183.png</url>
+      <title>Others</title>
+      <link>https://ceadpx.github.io/author/others/</link>
+    </image>
+    
+    <item>
+      <title>Oden Institute REPORT 20-10</title>
+      <link>https://ceadpx.github.io/publication/oden-2020-oden/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ceadpx.github.io/publication/oden-2020-oden/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
