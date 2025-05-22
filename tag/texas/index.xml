@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Texas | CEAD Lab</title>
+    <link>https://ceadpx.github.io/tag/texas/</link>
+      <atom:link href="https://ceadpx.github.io/tag/texas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Texas</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ceadpx.github.io/media/icon_hu_d954a4e53c2f2183.png</url>
+      <title>Texas</title>
+      <link>https://ceadpx.github.io/tag/texas/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian-Based Predictions of COVID-19 Evolution in Texas Using Multispecies Mixture-Theoretic Continuum Models</title>
+      <link>https://ceadpx.github.io/publication/jha-2020-seird/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://ceadpx.github.io/publication/jha-2020-seird/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
