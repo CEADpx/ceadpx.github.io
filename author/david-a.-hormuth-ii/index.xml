@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David A. Hormuth II | CEAD Lab</title>
+    <link>https://ceadpx.github.io/author/david-a.-hormuth-ii/</link>
+      <atom:link href="https://ceadpx.github.io/author/david-a.-hormuth-ii/index.xml" rel="self" type="application/rss+xml" />
+    <description>David A. Hormuth II</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ceadpx.github.io/media/icon_hu_d954a4e53c2f2183.png</url>
+      <title>David A. Hormuth II</title>
+      <link>https://ceadpx.github.io/author/david-a.-hormuth-ii/</link>
+    </image>
+    
+    <item>
+      <title>Biologically-Based Mathematical Modeling of Tumor Vasculature and Angiogenesis via Time-Resolved Imaging Data</title>
+      <link>https://ceadpx.github.io/publication/david-2021-review/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ceadpx.github.io/publication/david-2021-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
