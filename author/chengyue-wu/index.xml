@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chengyue Wu | CEAD Lab</title>
+    <link>https://ceadpx.github.io/author/chengyue-wu/</link>
+      <atom:link href="https://ceadpx.github.io/author/chengyue-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chengyue Wu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ceadpx.github.io/media/icon_hu_d954a4e53c2f2183.png</url>
+      <title>Chengyue Wu</title>
+      <link>https://ceadpx.github.io/author/chengyue-wu/</link>
+    </image>
+    
+    <item>
+      <title>An Information-Theoretic Framework for Optimal Experimental Design in Magnetic Nanoparticle Hyperthermia</title>
+      <link>https://ceadpx.github.io/publication/nandyala-2025-oed/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ceadpx.github.io/publication/nandyala-2025-oed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biologically-Based Mathematical Modeling of Tumor Vasculature and Angiogenesis via Time-Resolved Imaging Data</title>
+      <link>https://ceadpx.github.io/publication/david-2021-review/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ceadpx.github.io/publication/david-2021-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
