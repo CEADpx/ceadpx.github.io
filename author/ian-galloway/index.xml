@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian Galloway | CEAD Lab</title>
+    <link>https://ceadpx.github.io/author/ian-galloway/</link>
+      <atom:link href="https://ceadpx.github.io/author/ian-galloway/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ian Galloway</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ceadpx.github.io/author/ian-galloway/avatar_hu_eec3129de8c7397.png</url>
+      <title>Ian Galloway</title>
+      <link>https://ceadpx.github.io/author/ian-galloway/</link>
+    </image>
+    
+    <item>
+      <title>Ian Galloway</title>
+      <link>https://ceadpx.github.io/author/ian-galloway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ceadpx.github.io/author/ian-galloway/</guid>
+      <description>&lt;p&gt;Ian is an undergraduate student at South Dakota School of Mines, and a member of CEAD Lab. He is also member of the Formula SAE team at school, as well as part of the school jazz band. His research focus is on topology optimization and design of magnetic soft materials.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
