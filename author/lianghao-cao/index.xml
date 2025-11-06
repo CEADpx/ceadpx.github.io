@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lianghao Cao | CEAD Lab</title>
+    <link>https://ceadpx.github.io/author/lianghao-cao/</link>
+      <atom:link href="https://ceadpx.github.io/author/lianghao-cao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lianghao Cao</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ceadpx.github.io/media/icon_hu_51fb10f9cd6177d8.png</url>
+      <title>Lianghao Cao</title>
+      <link>https://ceadpx.github.io/author/lianghao-cao/</link>
+    </image>
+    
+    <item>
+      <title>Predictive Science: A Quest for the Holy</title>
+      <link>https://ceadpx.github.io/publication/patra-2025-predictive/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ceadpx.github.io/publication/patra-2025-predictive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual-Based Error Correction for Neural Operator Accelerated Infinite-Dimensional Bayesian Inverse Problems</title>
+      <link>https://ceadpx.github.io/publication/cao-2022-residual/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ceadpx.github.io/publication/cao-2022-residual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian-Based Predictions of COVID-19 Evolution in Texas Using Multispecies Mixture-Theoretic Continuum Models</title>
+      <link>https://ceadpx.github.io/publication/jha-2020-seird/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://ceadpx.github.io/publication/jha-2020-seird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oden Institute REPORT 20-10</title>
+      <link>https://ceadpx.github.io/publication/oden-2020-oden/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ceadpx.github.io/publication/oden-2020-oden/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
