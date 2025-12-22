@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://ceadpx.github.io/sitemap.xml
