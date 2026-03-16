@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aalok Kumar Jha | CEAD Lab</title>
+    <link>https://ceadpx.github.io/author/aalok-kumar-jha/</link>
+      <atom:link href="https://ceadpx.github.io/author/aalok-kumar-jha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aalok Kumar Jha</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ceadpx.github.io/author/aalok-kumar-jha/avatar_hu_229613b400ab3ea5.jpg</url>
+      <title>Aalok Kumar Jha</title>
+      <link>https://ceadpx.github.io/author/aalok-kumar-jha/</link>
+    </image>
+    
+    <item>
+      <title>Aalok Kumar Jha</title>
+      <link>https://ceadpx.github.io/author/aalok-kumar-jha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ceadpx.github.io/author/aalok-kumar-jha/</guid>
+      <description>&lt;p&gt;I am an incoming Postdoctoral Fellow in the Computational Engineering Analysis and Design (CEAD) Lab within Leslie A. Rose Department of Mechanical Engineering, South Dakota School of Mines and Technology. Before this position, I worked at the Computational Mechanics Research Laboratory at Johns Hopkins University. I received my PhD in Aerospace Engineering from the Indian Institute of Technology Kanpur.&lt;/p&gt;
+&lt;p&gt;My research interests include adaptive error estimation, directionally enriched finite element method, material modeling, geometry modeling, phase-field and damage modeling, fracture mechanics, thermomechanics, mechanics under extreme loading, multiphysics and multiscale modeling, and data-driven, physics-based scientific machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
