@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreas Wagner | CEAD Lab</title>
+    <link>https://ceadpx.github.io/author/andreas-wagner/</link>
+      <atom:link href="https://ceadpx.github.io/author/andreas-wagner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreas Wagner</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ceadpx.github.io/media/icon_hu_51fb10f9cd6177d8.png</url>
+      <title>Andreas Wagner</title>
+      <link>https://ceadpx.github.io/author/andreas-wagner/</link>
+    </image>
+    
+    <item>
+      <title>Modeling and Simulation of Vascular Tumors Embedded in Evolving Capillary Networks</title>
+      <link>https://ceadpx.github.io/publication/fritz-2021-angiogenesis/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ceadpx.github.io/publication/fritz-2021-angiogenesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
