@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hartmut Kaiser | CEAD Lab</title>
+    <link>https://ceadpx.github.io/author/hartmut-kaiser/</link>
+      <atom:link href="https://ceadpx.github.io/author/hartmut-kaiser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hartmut Kaiser</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ceadpx.github.io/media/icon_hu_51fb10f9cd6177d8.png</url>
+      <title>Hartmut Kaiser</title>
+      <link>https://ceadpx.github.io/author/hartmut-kaiser/</link>
+    </image>
+    
+    <item>
+      <title>An Asynchronous and Task-Based Implementation of Peridynamics Utilizing HPX—the C&#43;&#43; Standard Library for Parallelism and Concurrency</title>
+      <link>https://ceadpx.github.io/publication/diehl-2018-perihpx/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ceadpx.github.io/publication/diehl-2018-perihpx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
